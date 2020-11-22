@@ -13,10 +13,12 @@ You use a Mac with Windows a side operating system, through a virtual machine fo
 1. Run the setup.
 1. Change the language using Alt + Shift keys and when you type in Arabic it should work fine.
 
-كيفية استعمال لوحة مفاتيح اجهزة ماك علي نظام وندوز:
+**كيفية استعمال لوحة مفاتيح اجهزة ماك علي نظام وندوز:**
 
-قم بتحميل هذا [الملف](https://github.com/downloads/Bishoy/Mac-Ar-Layout-for-Win/ar_mac.zip) ثم قم باستخراجه.
+قم بتحميل هذا [الملف](https://github.com/downloads/Bishoy/Mac-Ar-Layout-for-Win/ar_mac.zip) ثم قم باستخراجه
 
-قم بإجراء ال setup و من ثم استعمل Alt + shift لتغيير اللغة الى اللغة العربية
+قم بإجراءالتطبيق المسمى ب 
+setup
+و من ثم استعمل Alt + shift لتغيير اللغة الى اللغة العربية
 
-الان يمكنك الكتابة بالعربية على الوندوز بوحة مفاتيح ماك.
+الان يمكنك الكتابة بالعربية على الوندوز بوحة مفاتيح ماك
