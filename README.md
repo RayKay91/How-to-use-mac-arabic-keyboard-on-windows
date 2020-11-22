@@ -20,6 +20,7 @@ You use a Mac with Windows a side operating system, through a virtual machine fo
 
 قم بإجراءالتطبيق المسمى ب 
 setup
+
 و من ثم استعمل Alt + shift لتغيير اللغة الى اللغة العربية
 
 الان يمكنك الكتابة بالعربية على الوندوز بوحة مفاتيح ماك
