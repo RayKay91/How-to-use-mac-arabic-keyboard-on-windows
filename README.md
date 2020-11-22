@@ -18,7 +18,8 @@ You use a Mac with Windows a side operating system, through a virtual machine fo
 
 قم بتحميل هذا [الملف](https://github.com/downloads/Bishoy/Mac-Ar-Layout-for-Win/ar_mac.zip) ثم قم باستخراجه
 
-قم بإجراءالتطبيق المسمى ب 
+قم بإجراء التطبيق المسمى ب
+
 setup
 
 و من ثم استعمل Alt + shift لتغيير اللغة الى اللغة العربية
