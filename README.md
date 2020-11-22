@@ -3,6 +3,7 @@
 After coming across the issue myself and finding the solution I thought I'd post about it to make it easier for anyone else to find the solution.
 
 **The issue**
+
 You use a Mac with Windows a side operating system, through a virtual machine for example, or Bootcamp. You try typing in Arabic using your Mac keyboard that you have a silicon cover for to display the Arabic keys or you have the keyboard with printed Arabic keys from Apple, but you find the keys don't match what's being typed on Windows.
 
 
