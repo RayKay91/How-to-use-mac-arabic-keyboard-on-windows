@@ -22,7 +22,7 @@ You use a Mac with Windows a side operating system, through a virtual machine fo
 
 setup
 
-و من ثم استعمل 
+و من ثم استعمل المفاتيح 
 
 Alt + shift
 
