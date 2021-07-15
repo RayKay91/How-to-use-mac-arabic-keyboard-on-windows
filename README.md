@@ -9,7 +9,7 @@ You use a Mac with Windows a side operating system, through a virtual machine fo
 
 **The solution**
 
-1. [Download this file](https://github.com/downloads/Bishoy/Mac-Ar-Layout-for-Win/ar_mac.zip). It solves the problem. [You can visit the creator's github page here](github.com/bishoy)
+1. [Download this file](https://github.com/downloads/Bishoy/Mac-Ar-Layout-for-Win/ar_mac.zip). It solves the problem. https://bishoy.har.by/2012/06/arabic-keyboard-layout-for-mac.html
 1. Extract the folder.
 1. Run the setup.
 1. Change the language using Alt + Shift keys and when you type in Arabic it should work fine.
